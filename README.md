@@ -1,19 +1,20 @@
 # Neuromatch-24
 ---
-Group name: Resourceful Orchid from the pod Oak	Contact name: Apollo Yang	
-Contact email: yanghuaihou@outlook.com
-Dataset: IBL dataset
-Members: Chinmay Sharma, Apollo Yang,
+1. Group name: Resourceful Orchid from the pod Oak
+2. Contact name: Apollo Yang	
+3. Contact email: yanghuaihou@outlook.com
+4. Dataset: IBL dataset
+5. Members: Chinmay Sharma, Apollo Yang,
 
 ## To Do
 ---
-Implement Logistic Regression on the Dataset
-Peruse the newest IBL documentation
-Complete the method rereview and come up with the testing procedure
-Finish abstract writing on W2D5
-Hard DDL: Get our results and graph on W3D3
-Work on the presentation outline
-Rehearse the presentation on W3D4/W3D5 morning
+1. Implement Logistic Regression on the Dataset
+2. Peruse the newest IBL documentation
+3. Complete the method rereview and come up with the testing procedure
+4. Finish abstract writing on W2D5
+5. Hard DDL: Get our results and graph on W3D3
+6. Work on the presentation outline
+7. Rehearse the presentation on W3D4/W3D5 morning
 
 
 ## Modelling steps (for our reference)
